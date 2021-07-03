@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Ahmed373117/Project3-Devops-Nanodegree/tree/master.svg?style=svg)](https://circleci.com/gh/Ahmed373117/Project3-Devops-Nanodegree/tree/master)
 
 ## Project Overview
 
